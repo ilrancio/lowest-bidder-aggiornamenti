@@ -1,1 +1,11 @@
-{ "iceServers": [{ "urls": "turn:free.expressturn.com:3478", "username": "000000002108776100", "credential": "U0Cr8R5oxIwz42bHthddaBXbloQ=" }] }
+{
+  "iceServers": [
+    {
+      "urls": "turn:free.expressturn.com:3478",
+      "username": "000000002108776100",
+      "credential": "U0Cr8R5oxIwz42bHthddaBXbloQ="
+    }
+  ],
+  "date": 1793717217367,
+  "sig": "ZICRXR/bcoUZrPRv+M+wIbqLp461645e8P1swv2C9ffVLB2ha9iGAtVINaGcndr8mMC325jMBbQfnYwV0pxRBw=="
+}
